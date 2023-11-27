@@ -2,11 +2,11 @@
     "updater": {
         "default": {
             "provider": "github",
-            "repo": "openblockcc/external-resources-v2"
+            "repo": "huintech/external-resources-v2"
         },
-        "cn" : {
+        "ko" : {
             "provider": "spaces",
-            "name": "openblock",
+            "name": "coconut",
             "path": "resource",
             "region": "sgp1"
         }

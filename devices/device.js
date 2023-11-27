@@ -1,5 +1,6 @@
 module.exports = [
     // Buid-in device
+    'coconutS',
     'arduinoUno',
     'arduinoNano',
     'arduinoLeonardo',
